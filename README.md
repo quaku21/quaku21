@@ -1,5 +1,5 @@
 I'm Kevin Takyi Yeboah, inetrested in mobile and web application development.
-I work well with with DART, Flutter, HTML, CSS & JavaScript.
+I work well with with C++, DART, Flutter, HTML, CSS & JavaScript.
 I'm look to collaborate on many more open source projects.
 Reach me via email quakukevin@gmail.com
 
